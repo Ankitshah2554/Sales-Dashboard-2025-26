@@ -18,7 +18,7 @@ The dashboard helps analyze sales performance using multiple KPIs and visualizat
 - Microsoft Excel
 ---
 ## Dashboard Preview
-![Dashboard](Images/Dashboard_Screenshot.png)
+![Dashboard](Dashboard_Screenshot.png)
 ---
 ## Files Included
 - Sales_Dashboard_2025_26.pbix
